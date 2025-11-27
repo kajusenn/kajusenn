@@ -12,8 +12,3 @@
 - 🙄 Fun fact: I have Cats Caterry www.beautytiarateam.com
 
 <img width="854" height="480" alt="CHICKEN" src="https://github.com/user-attachments/assets/16dd2b7b-a66f-4059-9063-61248fa43bad" />
-
-<!---
-kajusenK/kajusenK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

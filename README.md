@@ -1,4 +1,5 @@
-- 🤙 Hi, I’m kajusen😎
+##I’m kajusen😎
+
 - 👨‍💻 I’m interested in web development, game development and cybersecurity
   
 - 💅💅💅 I’m currently learning C# in Unity, fullstack development and cubersecurity
@@ -6,8 +7,6 @@
 - 🎗 I’m looking to collaborate on web development or game development
   
 - 💎 How to reach me: per mail kajusen88@gmail.com or discord @kajusenn
-  
-- ⚡ Pronouns: Chips/Potato
   
 - 🙄 Fun fact: I have Cats Caterry www.beautytiarateam.com
 

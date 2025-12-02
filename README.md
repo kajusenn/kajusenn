@@ -1,4 +1,4 @@
-##I’m kajusen😎
+I’m kajusen😎
 
 - 👨‍💻 I’m interested in web development, game development and cybersecurity
   

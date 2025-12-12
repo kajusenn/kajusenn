@@ -10,6 +10,7 @@ I’m kajusen😎
   
 - 🙄 Fun fact: I have Cats Caterry www.beautytiarateam.com
 
+
    My Inactivity
 - 11 - 21 november 2025: School
 - 3 - ... December 2025: Learning python

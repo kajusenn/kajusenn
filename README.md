@@ -9,9 +9,7 @@ I’m kajusen😎
 - 💎 How to reach me: per mail kajusen88@gmail.com or discord @kajusenn
   
 - 🙄 Fun fact: I have Cats Caterry www.beautytiarateam.com
-  <br>
 -----------------------------------------------------------------
-  <br>
    My Inactivity
 - 11 - 21 november 2025: School
 - 3 - ... December 2025: Learning python

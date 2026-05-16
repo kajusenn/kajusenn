@@ -1,16 +1,111 @@
-I’m kajusen😎
+<!-- Header Banner -->
+<div align="center">
 
-- 👨‍💻 I’m interested in web development, game development and cybersecurity
-  
-- 💅💅💅 I’m currently learning C# in Unity, fullstack development and cubersecurity
-  
-- 🎗 I’m looking to collaborate on web development or game development
-  
-- 💎 How to reach me: per mail kajusen88@gmail.com or discord @kajusenn
-  
-- 🙄 Fun fact: I have Cats Caterry www.beautytiarateam.com
------------------------------------------------------------------
-   My Inactivity
-- 11 - 21 november 2025: School
-- 3 - 30 December 2025: Learning python
+```
+██╗  ██╗ █████╗      ██╗██╗   ██╗███████╗███████╗███╗   ██╗
+██║ ██╔╝██╔══██╗     ██║██║   ██║██╔════╝██╔════╝████╗  ██║
+█████╔╝ ███████║     ██║██║   ██║███████╗█████╗  ██╔██╗ ██║
+██╔═██╗ ██╔══██║██   ██║██║   ██║╚════██║██╔══╝  ██║╚██╗██║
+██║  ██╗██║  ██║╚█████╔╝╚██████╔╝███████║███████╗██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
+```
 
+### *Building things. Breaking things. Learning from both.*
+
+[![YouTube](https://img.shields.io/badge/YouTube-c%2Fkajusen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/kajusen)
+[![itch.io](https://img.shields.io/badge/itch.io-kajusenn-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/kajusenn)
+[![My Cattery Website](https://img.shields.io/badge/Team-beautytiarateam.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://www.beautytiarateam.com)
+
+</div>
+
+---
+
+## `> whoami`
+
+Hey. I'm **kajusen**, a creator just getting started in the world of programming, with no intention of stopping.
+
+I make games, write code, edit videos and learn something new every week. I don't pretend to know everything, I just build, experiment and learn from my mistakes.
+
+I believe the best way to learn is to make something that works, even if it's still small and imperfect.
+
+---
+
+## `> tech_stack --list`
+
+**Languages & Web**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Currently learning**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Tools & other**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-000000?style=flat-square&logo=youtube&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## `> projects --featured`
+
+| Project | Description | Tech |
+|---|---|---|
+| 🐍 **Mini-city-game-PL** | A small city game with an economy, rough around the edges, but it runs | Python |
+| 🖱️ **Mini-Clicker** | VERY simple clicker game written in Python | Python |
+| 📅 **Advent-Calendar** | Advent 2025 project | CSS |
+| 📚 **Learning-Csharp-1** | My notes from learning C# | C# |
+
+> More projects coming. I learn fast.
+
+---
+
+## `> stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajusenn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajusenn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0)
+
+</div>
+
+---
+
+## `> current_status`
+
+```python
+kajusen = {
+    "learning":     ["C#", ".NET", "game development"],
+    "building":     ["small games", "web stuff", "videos"],
+    "part_of":      ["beautytiarateam"],
+    "goal":         "get better every single day",
+    "open_to":      "feedback, collabs, new ideas"
+}
+```
+
+---
+
+## `> contact`
+
+Got a question or want to build something together?
+
+- 📺 YouTube → [c/kajusen](https://youtube.com/c/kajusen)
+- 🎮 itch.io → [kajusenn](https://itch.io/profile/kajusenn)
+- 🌐 Team → [beautytiarateam.com](https://www.beautytiarateam.com)
+
+---
+
+<div align="center">
+
+*"Every expert was once a beginner."*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kajusenn.kajusenn&color=7c3aed)
+
+</div>

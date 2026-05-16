@@ -14,7 +14,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-c%2Fkajusen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/kajusen)
 [![itch.io](https://img.shields.io/badge/itch.io-kajusenn-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/kajusenn)
-[![My Cattery Website](https://img.shields.io/badge/Team-beautytiarateam.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://www.beautytiarateam.com)
+[![Cat Cattery](https://img.shields.io/badge/Team-beautytiarateam.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://www.beautytiarateam.com)
 
 </div>
 
@@ -59,22 +59,10 @@ I believe the best way to learn is to make something that works, even if it's st
 |---|---|---|
 | 🐍 **Mini-city-game-PL** | A small city game with an economy, rough around the edges, but it runs | Python |
 | 🖱️ **Mini-Clicker** | VERY simple clicker game written in Python | Python |
-| 📅 **Advent-Calendar** | Advent 2025 project | CSS |
+| 📅 **Advent-Calendar** | Advent 2025 project | HTML/CSS/JS |
 | 📚 **Learning-Csharp-1** | My notes from learning C# | C# |
 
 > More projects coming. I learn fast.
-
----
-
-## `> stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajusenn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajusenn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0)
-
-</div>
 
 ---
 
@@ -82,9 +70,8 @@ I believe the best way to learn is to make something that works, even if it's st
 
 ```python
 kajusen = {
-    "learning":     ["C#", ".NET", "game development"],
+    "learning":     ["C#", ".NET", "game development", Web development],
     "building":     ["small games", "web stuff", "videos"],
-    "part_of":      ["beautytiarateam"],
     "goal":         "get better every single day",
     "open_to":      "feedback, collabs, new ideas"
 }
@@ -97,14 +84,14 @@ kajusen = {
 Got a question or want to build something together?
 
 - 📺 YouTube → [c/kajusen](https://youtube.com/c/kajusen)
+- ✉️ Gmail → kajusen88@gmail.com
 - 🎮 itch.io → [kajusenn](https://itch.io/profile/kajusenn)
-- 🌐 Team → [beautytiarateam.com](https://www.beautytiarateam.com)
 
 ---
 
 <div align="center">
 
-*"Every expert was once a beginner."*
+*"Every expert was once a beginner (Like me now)."*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kajusenn.kajusenn&color=7c3aed)
 

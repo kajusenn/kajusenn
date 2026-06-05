@@ -61,6 +61,7 @@ I believe the best way to learn is to make something that works, even if it's st
 | 🐍 **Mini-city-game-PL** | A small city game with an economy, rough around the edges, but it runs | Python |
 | 🖱️ **Mini-Clicker** | VERY simple clicker game written in Python | Python |
 | 📅 **Advent-Calendar** | Advent 2025 project | HTML/CSS/JS |
+| 🎮 **Game list** | Personal game list with database in PHP | **PHP**/HTML/CSS/JS |
 | 📚 **Learning-Csharp-1** | My notes from learning C# | C# |
 
 > More projects coming. I learn fast.
@@ -71,7 +72,7 @@ I believe the best way to learn is to make something that works, even if it's st
 
 ```python
 kajusen = {
-    "learning":     ["C#", ".NET", "game development", Web development],
+    "learning":     ["C#", ".NET", "game development", "Web development"],
     "building":     ["small games", "web stuff", "videos"],
     "goal":         "get better every single day",
     "open_to":      "feedback, collabs, new ideas"

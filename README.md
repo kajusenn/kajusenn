@@ -14,7 +14,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-c%2Fkajusen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/kajusen)
 [![itch.io](https://img.shields.io/badge/itch.io-kajusenn-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/kajusenn)
-[![My Cattery Website](https://img.shields.io/badge/Cattery-beautytiarateam.com-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://www.beautytiarateam.com)
 
 </div>
 
